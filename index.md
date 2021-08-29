@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Database Of Articles
 
-You can use the [editor on GitHub](https://github.com/amirlebedev/News-Scaper/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amirlebedev/News-Scaper/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ynet || התקלות נמשכות - ומבצע הבדיקות הסרולוגיות יצומצם משמעותית || https://www.ynet.co.il/news/article/rypdaizwt || 2021-08-24T12:57:47.353897Z || אדיר ינקו, תמר טרבלסי חדד || tags || 24/08/2021 17:11:24 || https://web.archive.org//web/20210824134845/https://www.ynet.co.il/news/article/rypdaizwt
+ynet || אחרי מתקפת הסייבר: באיראן "התנצלו" על ההתעללות בכלא || https://www.ynet.co.il/news/article/ryxqqizzk || 2021-08-24T11:59:30.244088Z || סוכנויות הידיעות || tags || 24/08/2021 17:11:24 || https://web.archive.org//web/20210824135144/https://www.ynet.co.il/news/article/ryxqqizzk
+ynet || החיים ברכבת ההרים של הביטקוין | הפודקאסט היומי || https://www.ynet.co.il/news/theheadline/article/TC2YUWT12 || 2021-08-24T03:59:18.845715Z || אטילה שומפלבי || tags || 24/08/2021 17:11:25 || https://web.archive.org//web/20210824135240/https://www.ynet.co.il/news/theheadline/article/TC2YUWT12
+ynet || מצאנו פוקאצ'ה גבינות מושלמת שמסתתרת בתחנת דלק בעמק חפר || https://www.ynet.co.il/food/article/b1ogomgzk || 2021-08-24T11:32:38.970899Z || קובי רובין || tags || 24/08/2021 17:11:25 || https://web.archive.org//web/20210824140557/https://www.ynet.co.il/food/article/b1ogomgzk
+ynet || ממליצים על העסקים שעושים את השכונה || https://www.ynet.co.il/economy/article/r1rukjqey || 2021-08-18T23:16:54.169060Z || בשיתוף בנק הפועלים || tags || 24/08/2021 17:11:25 || https://web.archive.org//web/20210824140638/https://www.ynet.co.il/economy/article/r1rukjqey
+ynet || נופש בחו"ל ללא בידוד: לאן נטוס בחגים? || https://www.ynet.co.il/vacation/flights/article/bjg008mm11f || 2021-08-24T09:12:10.090534Z || גלעד ילון || tags || 24/08/2021 17:11:25 || https://web.archive.org//web/20210824140809/https://www.ynet.co.il/vacation/flights/article/bjg008mm11f
+ynet || צפו: השחקנית הוקפצה ברגע האחרון - הבמאי לחש לה את הטקסט באוזנייה || https://www.ynet.co.il/entertainment/article/sk76wvfzk || 2021-08-24T09:58:53.347101Z || רן בוקר || tags || 24/08/2021 17:11:26 || https://web.archive.org//web/20210824143956/https://www.ynet.co.il/entertainment/article/sk76wvfzk
+ynet || שלומית מלכה על הפרידה מיהודה לוי: "בכיתי המון. נהרות" || https://pplus.ynet.co.il/articles/0,7340,L-5990354,00.html || time || author || tags || 24/08/2021 17:11:26 || https://web.archive.org//web/20210824144114/https://www.ynet.co.il/articles/0,7340,L-5990378,00.html
