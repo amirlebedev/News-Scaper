@@ -1,4 +1,4 @@
-## Database Of Articles
+## Database of Articles
 
 ynet | התקלות נמשכות - ומבצע הבדיקות הסרולוגיות יצומצם משמעותית | <a href="https://www.ynet.co.il/news/article/rypdaizwt">Link</a> | 2021-08-24T12:57:47.353897Z | אדיר ינקו, תמר טרבלסי חדד | tags | 24/08/2021 17:11:24 | <a href="https://web.archive.org//web/20210824134845/https://www.ynet.co.il/news/article/rypdaizwt">Archive</a>
 ynet | אחרי מתקפת הסייבר: באיראן "התנצלו" על ההתעללות בכלא | <a href="https://www.ynet.co.il/news/article/ryxqqizzk">Link</a> | 2021-08-24T11:59:30.244088Z | סוכנויות הידיעות | tags | 24/08/2021 17:11:24 | <a href="https://web.archive.org//web/20210824135144/https://www.ynet.co.il/news/article/ryxqqizzk">Archive</a>
