@@ -1,0 +1,59 @@
+https://www.ynet.co.il/digital, Digital
+https://www.ynet.co.il/health, Health
+https://www.ynet.co.il/entertainment, Entertainment
+https://www.ynet.co.il/weather, Weather
+https://www.ynet.co.il/sport, Sport
+https://www.ynet.co.il/economy, Economy
+https://www.ynet.co.il/news/category/185
+https://www.ynet.co.il/news/category/187
+https://www.ynet.co.il/news/category/192
+https://www.ynet.co.il/news/category/424
+https://www.ynet.co.il/weather
+https://www.ynet.co.il/home/0,7340,L-3764,00.html
+https://www.ynet.co.il/news/category/4686
+https://www.ynet.co.il/home/0,7340,L-6974,00.html
+https://www.ynet.co.il/sport
+https://www.ynet.co.il/sport/israelisoccer
+https://www.ynet.co.il/home/0,7340,L-83,00.html
+https://www.ynet.co.il/sport/worldbasketball
+https://www.ynet.co.il/sport/category/124
+https://www.ynet.co.il/home/0,7340,L-1883,00.html
+https://www.ynet.co.il/home/0,7340,L-1741,00.html
+https://www.ynet.co.il/home/0,7340,L-2759,00.html
+https://www.ynet.co.il/home/0,7340,L-3715,00.html
+https://www.ynet.co.il/economy
+https://www.ynet.co.il/economy/category/429
+https://www.ynet.co.il/economy/category/430
+https://www.ynet.co.il/home/0,7340,L-1336,00.html
+https://www.ynet.co.il/home/0,7340,L-5364,00.html
+https://www.ynet.co.il/economy/category/5363
+https://www.ynet.co.il/economy/category/6567
+https://www.ynet.co.il/entertainment
+https://www.ynet.co.il/entertainment/category/542
+https://www.ynet.co.il/entertainment/category/543
+https://www.ynet.co.il/entertainment/category/539
+https://www.ynet.co.il/entertainment/category/541
+https://www.ynet.co.il/home/0,7340,L-4764,00.html
+https://www.ynet.co.il/digital
+https://www.ynet.co.il/digital/internet
+https://www.ynet.co.il/digital/technology
+https://www.ynet.co.il/digital/gaming
+https://www.ynet.co.il/environment-science/category/2142
+https://www.ynet.co.il/home/0,7340,L-1694,00.html
+https://www.ynet.co.il/digital/reviews
+https://www.ynet.co.il/digital/category/786
+https://www.ynet.co.il/home/0,7340,L-4376,00.html
+https://www.ynet.co.il/health/
+https://www.ynet.co.il/health/category/4647
+https://www.ynet.co.il/health/category/1834
+https://www.ynet.co.il/menta
+https://www.ynet.co.il/health/category/2097
+https://www.ynet.co.il/health/category/2145
+https://www.ynet.co.il/home/0,7340,L-1917,00.html
+https://www.ynet.co.il/health/category/2026
+https://www.ynet.co.il/health/category/1841
+https://www.ynet.co.il/health/category/1982
+https://www.ynet.co.il/home/0,7340,L-2029,00.html
+https://www.ynet.co.il/parents
+https://www.ynet.co.il/home/0,7340,L-3428,00.html
+https://www.ynet.co.il/health/category/10705
