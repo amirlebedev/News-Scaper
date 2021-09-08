@@ -4,6 +4,8 @@ Packages: requests, bs4, , selenium (chrome driver), PySimpleGui.
 
 Use command: pip install -r requirements.txt
 
+To run the program open main.py and run it.
+
 Database:
 https://amirlebedev.github.io/News-Scaper/
 
