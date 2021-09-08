@@ -1,8 +1,11 @@
 # News-Scaper
-Database:
-https://amirlebedev.github.io/News-Scaper/
 
 Packages: requests, bs4, , selenium (chrome driver), PySimpleGui.
+
+Use command: pip install -r requirements.txt
+
+Database:
+https://amirlebedev.github.io/News-Scaper/
 
 Operation:
 1. Gets all the main "hubs" for articles.
