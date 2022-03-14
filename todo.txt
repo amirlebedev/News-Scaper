@@ -1,0 +1,5 @@
+To Do:
+*transfaer to mongodb database
+*more dynamic functions
+*functional error logging
+*fix api connection

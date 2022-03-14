@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="849bcb41-776e-4b32-aaea-dc713e8b60c6" name="Changes" comment="" />
+    <list default="true" id="849bcb41-776e-4b32-aaea-dc713e8b60c6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/mako.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/walla.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1xrcqzu8y4VLBcWzf9Lvkfmp3es" />
   <component name="ProjectViewState">
@@ -49,16 +56,5 @@
       <updated>1631116843057</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
