@@ -1,7 +1,5 @@
 import PySimpleGUI as sg
 from ynet import *
-from mako import *
-from walla import *
 from archive import *
 
 
